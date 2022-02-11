@@ -32,7 +32,7 @@
     "@nomiclabs/buidler-truffle5": "^1.0.0-beta.13",
     "@nomiclabs/buidler-web3": "^1.0.0-beta.13",
     "@nomiclabs/buidler-web3-legacy": "^1.0.0-beta.13",
-    "@openzeppelin/contracts": "v2.3.0",
+    "@openzeppelin/contracts": "v4.4.2",
     "@truffle/artifactor": "^4.0.33",
     "bancor-contracts": "github:bancorprotocol/contracts#973c9919e146a1b61297632f3253ee1c891462a9",
     "bignumber.js": "^9.0.0",
